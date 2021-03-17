@@ -1,4 +1,4 @@
-# Lookby - Semi - Autonomous Affiliative Marketing Multishop MVP
+# Lookby - Semiautomatic Affiliative Marketing Multishop MVP
 It is on top of Wordpress but can easily be transformed to standalone.
 
 System downloads products with images, descriptions, attributes and urls, from choosed vendors, and adds them to the shop.
