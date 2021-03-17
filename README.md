@@ -16,6 +16,7 @@ Right table is empty - it is populated only if category isn't found.
 Then we can update our .CSV's mapper files.
 
 Admin has the ability to download products by category or by vendor, and can choose if to populate the database on-the-fly or not.
+Different colors of buttons indicates the different affiliative partners API's.
 ![konsola](https://user-images.githubusercontent.com/35747845/111485646-162e0d80-8737-11eb-9af8-d8c6fd584957.png)
 
 There is a turned-off function of availability checking for every product,
