@@ -1,4 +1,5 @@
-# Lookby - Semiautomatic Affiliative Marketing Multishop MVP
+# Lookby - One Place All Stores
+# Semiautomatic Affiliative Marketing Multishop MVP with Stores from Shopping Malls
 It is on top of Wordpress but can easily be transformed to standalone.
 
 System downloads products with titles, prices, images, descriptions, attributes and urls, from choosed vendors, and adds them to the shop.
@@ -21,6 +22,7 @@ Different colors of buttons indicates the different affiliative partners API's.
 
 There is a turned-off function of availability checking for every product,
 because one important file is missing, but I can back engineer it if I got time.
+Availability is clarified to shopping mall in which vendor has a offline store.
 
 demo https://lookby.wokulski.online
 
