@@ -14,6 +14,8 @@ System is super fast because it uses his own MYSQL tables to store products data
 We can see that system match every product category ideally, what we can see on left table.
 Right table is empty - it is populated only if category isn't found.
 Then we can update our .CSV's mapper files.
+
+Admin has the ability to download products by category or by vendor, and can choose if to populate the database on-the-fly or not.
 ![konsola](https://user-images.githubusercontent.com/35747845/111485646-162e0d80-8737-11eb-9af8-d8c6fd584957.png)
 
 There is a turned-off function of availability checking for every product,
