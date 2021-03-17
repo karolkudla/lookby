@@ -24,6 +24,6 @@ There is a turned-off function of availability checking for every product,
 because one important file is missing, but I can back engineer it if I got time.
 Availability is clarified to shopping mall in which vendor has a offline store.
 
-It has responsive mobile version.
+It has responsive mobile version too.
 demo https://lookby.wokulski.online
 
