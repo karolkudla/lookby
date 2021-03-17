@@ -20,6 +20,9 @@ Admin has the ability to download products by category or by vendor, and can cho
 Different colors of buttons indicates the different affiliative partners API's.
 ![konsola](https://user-images.githubusercontent.com/35747845/111485646-162e0d80-8737-11eb-9af8-d8c6fd584957.png)
 
+The mapper algorithm also "says" what is doing, live in console log:
+![console](https://user-images.githubusercontent.com/35747845/111493164-98213500-873d-11eb-83d4-0564d2133458.png)
+
 There is a turned-off function of availability checking for every product,
 because one important file is missing, but I can back engineer it if I got time.
 Availability is clarified to shopping mall in which vendor has a offline store.
