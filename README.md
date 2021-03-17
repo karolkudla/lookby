@@ -5,7 +5,7 @@ System downloads products with images, descriptions, attributes and urls, from c
 It uses .CSV product files and vendor API's.
 
 Because every vendor has their own category schema - products categories are mapped on-the-fly after download, from vendors categories to system categories, based on special dictionary .csv files.
-System administrator can see AJAX live table with mapped names/categories during mapping.
+System administrator can see AJAX live table with mapped names/categories during mapping, with the key words that made mapping.
 If it is impossible to determine the vendor category because it is null, system can determine the category from product name. 
 Menu is also generated automatically from products categories.
 
