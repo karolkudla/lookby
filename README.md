@@ -1,5 +1,5 @@
 # Lookby - One Place All Stores
-# Semiautomatic Affiliative Marketing Multishop MVP with Stores from Shopping Malls
+Semiautomatic Affiliative Marketing Multishop MVP with products from stores from shopping malls
 It is on top of Wordpress but can easily be transformed to standalone.
 
 System downloads products with titles, prices, images, descriptions, attributes and urls, from choosed vendors, and adds them to the shop.
