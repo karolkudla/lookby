@@ -1,8 +1,9 @@
 # Lookby - One Place All Stores
+Project from 2017
 Semiautomatic Affiliative Marketing Multishop MVP with products from stores from shopping malls
 It is on top of Wordpress but can easily be transformed to standalone.
 
-System downloads products with titles, prices, images, descriptions, attributes and urls, from choosed vendors, and adds them to the shop.
+System downloads products data with titles, prices, images, descriptions, attributes and urls, from choosed vendors, and adds them to the shop.
 It uses .CSV product files and vendor API's.
 
 Because every vendor has their own category schema - products categories are mapped on-the-fly after download, from vendors categories to system categories, based on special dictionary .csv files.
