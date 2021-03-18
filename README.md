@@ -1,5 +1,6 @@
 # Lookby - One Place All Stores (developed in 2017)
 Semiautomatic Affiliative Marketing Catalogue MVP with products from stores from shopping malls
+Wordpress Theme + Functionality
 It is on top of Wordpress but can easily be transformed to standalone.
 
 System downloads products data with titles, prices, images, descriptions, attributes and urls, from choosed vendors, and adds them to the shop.
