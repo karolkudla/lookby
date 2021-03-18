@@ -1,5 +1,4 @@
-# Lookby - One Place All Stores
-Project from 2017
+# Lookby - One Place All Stores (2017)
 Semiautomatic Affiliative Marketing Multishop MVP with products from stores from shopping malls
 It is on top of Wordpress but can easily be transformed to standalone.
 
